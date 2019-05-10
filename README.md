@@ -3,7 +3,6 @@ Skrypt napisany w:
 * Python 3.7.3
 
 # Treść:  
----  
 Napisz program w Pythonie, który na standardowym wejściu dostaje długości 3 boków trójkąta oddzielone spacjami (w jednej linii), policzy i wyświetli na standardowym wyjściu pole tego trójkąta z dokładnością do dwóch miejsc po przecinku.
 
 Pamiętaj o dodaniu testów jednostkowych oraz obsługę błędów.  
